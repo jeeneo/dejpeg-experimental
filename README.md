@@ -4,5 +4,6 @@ soon DeJPEG will support "experimental mode" which disables model safety checks 
 
 models are but not limited to:
 
-https://openmodeldb.info/models/1x-DitherDeleterV3-Smooth
-https://openmodeldb.info/models/1x-Bandage-Smooth
+https://openmodeldb.info/models/1x-DitherDeleterV3-Smooth (unconverted)
+
+https://openmodeldb.info/models/1x-Bandage-Smooth (unconverted)
