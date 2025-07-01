@@ -1,5 +1,7 @@
 experimental models for DeJPEG (requires enabling experimental mode)
 
+(mainly for converting GIF animations to APNG while removing the GIF artifacts because the existing models only fair 'okay' with GIFs)
+
 soon DeJPEG will support "experimental mode" which disables model safety checks (filename/hashing) and allows importing experimental models
 
 models planned are:
