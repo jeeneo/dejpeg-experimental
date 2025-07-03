@@ -10,6 +10,8 @@ https://openmodeldb.info/models/1x-DitherDeleterV3-Smooth (unconverted)
 
 https://openmodeldb.info/models/1x-Bandage-Smooth (unconverted)
 
+https://openmodeldb.info/models/1x-DeEdge (unconverted)
+
 ----
 
 if you would like to request a model, you can look at [OpenModelDB](https://openmodeldb.info/?t=scale%3A1)'s list for `1x` models (please do not request any 2x or up models), then file an issue and I'll look into seeing if it can be added
