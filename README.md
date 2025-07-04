@@ -8,9 +8,11 @@ https://openmodeldb.info/models/1x-Bandage-Smooth
 
 https://openmodeldb.info/models/1x-DeEdge
 
-https://openmodeldb.info/models/1x-UnResizeOnly-RCAN
+https://openmodeldb.info/models/1x-UnResizeOnly-RCAN (unconverted)
 
 https://openmodeldb.info/models/1x-GainRESV4
+
+use [this](https://github.com/jeeneo/dejpeg/releases/tag/v2.6.0-debug) prerelease version
 
 ----
 
