@@ -1,4 +1,4 @@
-experimental models for DeJPEG (requires enabling experimental mode)
+experimental models for DeJPEG
 
 models planned are:
 
