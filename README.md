@@ -8,7 +8,7 @@ https://openmodeldb.info/models/1x-Bandage-Smooth
 
 https://openmodeldb.info/models/1x-DeEdge
 
-https://openmodeldb.info/models/1x-UnResizeOnly-RCAN (unconverted)
+https://openmodeldb.info/models/1x-UnResizeOnly-RCAN (tbd)
 
 https://openmodeldb.info/models/1x-GainRESV4
 
