@@ -12,7 +12,7 @@ https://openmodeldb.info/models/1x-UnResizeOnly-RCAN (tbd)
 
 https://openmodeldb.info/models/1x-GainRESV4
 
-use [this](https://github.com/jeeneo/dejpeg/releases/tag/v2.6.0-debug) prerelease version
+use [this](https://github.com/jeeneo/dejpeg/releases/tag/v2.6.1b) prerelease version
 
 ----
 
