@@ -1,3 +1,5 @@
+## archival notice: read [this issue](https://github.com/jeeneo/dejpeg/issues/26)
+
 experimental models for DeJPEG
 
 models planned are:
