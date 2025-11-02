@@ -12,8 +12,6 @@ https://openmodeldb.info/models/1x-UnResizeOnly-RCAN (tbd)
 
 https://openmodeldb.info/models/1x-GainRESV4
 
-use [this](https://github.com/jeeneo/dejpeg/releases/tag/v2.6.1b) prerelease version
-
 ----
 
 if you would like to request a model, see the [model request wiki](https://github.com/jeeneo/dejpeg/wiki/model-requests)
